@@ -1,6 +1,6 @@
-Hey there, I'm `DarshK35`
+Hey there, I'm Darsh K. Computer Science student at Vellore Institute of Technology, Vellore.
 
-I do a lot of things, coding, playing music, playing games, draw.........
+I do a lot of things, coding, playing music, playing games, drawing...
 Here you will find some of the projects I have and am working on. Sure, most of them are incomplete, but is there any truly complete project?
 
 You can check these repos:
